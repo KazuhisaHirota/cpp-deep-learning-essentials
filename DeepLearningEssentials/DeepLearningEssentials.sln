@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeepLearningEssentials", "DeepLearningEssentials.vcxproj", "{178C0C43-C2B1-4A20-8486-D26E38B8204F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Debug|x64.ActiveCfg = Debug|x64
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Debug|x64.Build.0 = Debug|x64
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Debug|x86.ActiveCfg = Debug|Win32
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Debug|x86.Build.0 = Debug|Win32
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Release|x64.ActiveCfg = Release|x64
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Release|x64.Build.0 = Release|x64
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Release|x86.ActiveCfg = Release|Win32
+		{178C0C43-C2B1-4A20-8486-D26E38B8204F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {305AD1A7-BAA3-4870-927E-4486EFDB7FC4}
+	EndGlobalSection
+EndGlobal
